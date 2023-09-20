@@ -44,7 +44,7 @@ web_include_js = "/assets/drive/js/drive.js"
 # ----------
 
 # application home page (will override Website Settings)
-home_page = "drive"
+# home_page = "drive"
 
 # website user home page (by Role)
 # role_home_page = {
@@ -182,6 +182,6 @@ scheduler_events = {
 # ]
 
 website_redirects = [
-    {"source": "/", "target": "/drive"},
-    {"source": "/me", "target": "/drive/home"},
+#    {"source": "/", "target": "/drive"},
+#    {"source": "/me", "target": "/drive/home"},
 ]
